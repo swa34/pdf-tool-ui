@@ -14,7 +14,7 @@ import {
 } from '@mui/material';
 import PropTypes from 'prop-types';
 import { HEADER_BACKGROUND } from '../utilities/constants';
-import logo from '../assets/caes_logo.png';
+import logo from '../assets/caes_logo_dark.png';
 import MenuIcon from '@mui/icons-material/Menu';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import ExpandLessIcon from '@mui/icons-material/ExpandLess';
