@@ -209,7 +209,7 @@ BACKEND_ENVIRONMENT="$BACKEND_ENVIRONMENT"'}'
 # Backend buildspec
 BACKEND_SOURCE='{
   "type":"GITHUB",
-  "location":"https://github.com/ASUCICREPO/PDF_accessability_UI.git",
+  "location":"https://github.com/swa34/pdf-tool-ui.git",
   "buildspec":"buildspec.yml"
 }'
 
