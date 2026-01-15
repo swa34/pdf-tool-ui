@@ -179,16 +179,15 @@ const LandingPage = () => {
           }}
         >
           <Typography variant="h4" component="h1" sx={{ fontWeight: 'bold', mb: 2 }}>
-            PDF Accessibility Remediation
+            CAES PDF Accessibility Remediation
           </Typography>
 
           <Typography variant="h5" component="h2" sx={{ fontWeight: 'medium', mb: 2 }}>
             About this solution:
           </Typography>
           <Typography variant="body1" component="h3" paragraph>
-            This solution was created by the Arizona State University Artificial
-            Intelligence Cloud Innovation Center (AI CIC), powered by Amazon Web
-            Services (AWS), to tackle a significant challenge in the digital era:
+            This solution is provided by the UGA College of Agricultural and Environmental
+            Sciences (CAES) to tackle a significant challenge in the digital era:
             improving the accessibility of digital document collections.
           </Typography>
           <Typography variant="body1" component="h3" paragraph>

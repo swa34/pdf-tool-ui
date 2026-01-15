@@ -1,9 +1,9 @@
-// Colors for your theme
-export const PRIMARY_MAIN = '#1976d2';  // Your primary color (blue)
-export const SECONDARY_MAIN = '#ff4081';  // Your secondary color (pink)
-export const CHAT_LEFT_PANEL_BACKGROUND = '#2c3e50';  // Background color for left panel
-export const HEADER_BACKGROUND = '#34495e';  // Background color for header
-export const primary_50 = '#e3f2fd';  // Lighter shade of primary color
+// CAES UGA Brand Colors
+export const PRIMARY_MAIN = '#BA0C2F';  // Bulldog Red
+export const SECONDARY_MAIN = '#00A3AD';  // Lake Herrick (teal accent)
+export const CHAT_LEFT_PANEL_BACKGROUND = '#004E60';  // Olympic (dark teal)
+export const HEADER_BACKGROUND = '#000000';  // Arch Black
+export const primary_50 = '#FDEAED';  // Lighter shade of Bulldog Red
 
 export const isMaintenanceMode = process.env.REACT_APP_MAINTENANCE_MODE === 'true';
 
