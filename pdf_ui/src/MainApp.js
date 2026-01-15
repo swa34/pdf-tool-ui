@@ -12,7 +12,6 @@ import LeftNav from './components/LeftNav';
 import theme from './theme';
 import FirstSignInDialog from './components/FirstSignInDialog';
 import HeroSection from './components/HeroSection';
-import InformationBlurb from './components/InformationBlurb';
 
 import { Authority, CheckAndIncrementQuota } from './utilities/constants';
 import CustomCredentialsProvider from './utilities/CustomCredentialsProvider';
@@ -303,10 +302,6 @@ function MainApp({ isLoggingOut, setIsLoggingOut }) {
 
 
           </Container>
-
-          <Box sx={{ marginTop: 8 }}>
-            <InformationBlurb />
-          </Box>
         </Box>
       </Box>
     </ThemeProvider>
